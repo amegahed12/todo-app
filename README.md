@@ -49,7 +49,7 @@ A comprehensive Todo list application built with React, featuring user authentic
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/amegahed12/todo-app.git
    cd base-project
    ```
 
