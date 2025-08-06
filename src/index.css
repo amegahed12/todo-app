@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+/* Enable dark mode */
+@layer base {
+  html {
+    @apply transition-colors duration-300;
+  }
+  
+  body {
+    @apply transition-colors duration-300;
+  }
+}
