@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "demo",
+      "password": "demo12345",
+      "email": "demo@example.com",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "username": "mega",
+      "email": "abdelrahmaneslaim@gmail.com",
+      "password": "123123Aa",
+      "createdAt": "2025-08-05T15:16:50.099Z",
+      "id": 2
+    },
+    {
+      "username": "hello",
+      "email": "mega@hello.com",
+      "password": "123123",
+      "createdAt": "2025-08-05T15:24:09.559Z",
+      "id": 3
+    },
+    {
+      "username": "meg",
+      "email": "abdelrahman.megahed05@gmail.com",
+      "password": "123123Vv",
+      "createdAt": "2025-08-05T15:37:31.468Z",
+      "id": 4
+    },
+    {
+      "username": "ali",
+      "email": "ali@gmail.com",
+      "password": "123123",
+      "createdAt": "2025-08-05T15:46:47.005Z",
+      "id": 5
+    },
+    {
+      "username": "mega123",
+      "email": "hi@emga.com",
+      "password": "123123",
+      "createdAt": "2025-08-05T19:43:01.322Z",
+      "id": 6
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Complete React Projectaa",
+      "description": "Finish the todo application with all features123123",
+      "priority": "high",
+      "dueDate": "2026-06-20",
+      "status": "pending",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2025-08-06T11:47:44.658Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Learn TypeScriptttt",
+      "description": "Study TypeScript fundamentals and advanced concepts",
+      "priority": "medium",
+      "dueDate": "2026-11-25",
+      "status": "pending",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2025-08-06T11:47:42.492Z"
+    },
+    {
+      "name": "asd",
+      "description": "sadsd\n",
+      "priority": "medium",
+      "dueDate": "2025-08-15",
+      "status": "pending",
+      "userId": 3,
+      "createdAt": "2025-08-05T15:24:34.590Z",
+      "updatedAt": "2025-08-05T15:24:34.590Z",
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "description": "12312",
+      "priority": "high",
+      "dueDate": "2025-08-09",
+      "status": "pending",
+      "userId": 3,
+      "createdAt": "2025-08-05T15:25:01.802Z",
+      "updatedAt": "2025-08-05T15:37:56.595Z",
+      "id": 4
+    },
+    {
+      "name": "asd",
+      "description": "asdasd",
+      "priority": "medium",
+      "dueDate": "2025-08-29",
+      "status": "pending",
+      "userId": 5,
+      "createdAt": "2025-08-05T15:47:16.551Z",
+      "updatedAt": "2025-08-05T15:47:16.551Z",
+      "id": 5
+    },
+    {
+      "name": "asdsad",
+      "description": "asd",
+      "priority": "medium",
+      "dueDate": "2025-08-16",
+      "status": "pending",
+      "userId": 5,
+      "createdAt": "2025-08-05T19:52:19.864Z",
+      "updatedAt": "2025-08-05T19:52:19.864Z",
+      "id": 6
+    },
+    {
+      "name": "mega",
+      "description": "123241234sadasd123",
+      "priority": "medium",
+      "dueDate": "2025-08-22",
+      "status": "pending",
+      "userId": 1,
+      "createdAt": "2025-08-05T20:01:23.038Z",
+      "updatedAt": "2025-08-06T11:47:50.371Z",
+      "id": 7
+    }
+  ]
+}
